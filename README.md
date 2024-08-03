@@ -34,12 +34,12 @@ To run this game, you need to have Python and Pygame installed on your machine.
 ## Usage
 ### Running the Game
 To run the main game, execute the `The Distraction.py` 
-script: [The Distraction.py](https://github.com/shaikhyasir91/The_Distraction/blob/3e16fe827eca3420753aff7169860dc7420860ab/The%20Distraction.py)
+- script: [The Distraction.py](https://github.com/shaikhyasir91/The_Distraction/blob/3e16fe827eca3420753aff7169860dc7420860ab/The%20Distraction.py)
 
 
 ### Using the Level Editor
-To create and edit game levels, execute the `level_editor.py` script:
-script: [level_editor.py](https://github.com/shaikhyasir91/The_Distraction/blob/81b43d133b30d5f99af6e25e5fb7d670050485c1/level_editor.py)
+To create and edit game levels, execute the `level_editor.py` 
+- script: [level_editor.py](https://github.com/shaikhyasir91/The_Distraction/blob/81b43d133b30d5f99af6e25e5fb7d670050485c1/level_editor.py)
 
 
 ## Level Editor
