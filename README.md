@@ -27,4 +27,30 @@ To run this game, you need to have Python and Pygame installed on your machine.
 ### Running the Game
 To run the main game, execute the `The Distraction.py` script:
 ```bash
-python [The Distraction.py]('https://github.com/shaikhyasir91/The_Distraction/blob/45725f19c512ac057767aa2267c9a18a3ea4d687/The%20Distraction.py')
+python The Distraction.py
+
+### Using the Level Editor
+To create and edit game levels, execute the `level_editor.py` script:
+python level_editor.py
+
+## Level Editor
+The level editor allows you to create custom levels for the game. You can place different types of tiles and enemies on the grid and save/load your level designs.
+
+## Controls
+Left-click to place a tile or enemy.
+Right-click to remove a tile or enemy.
+Use the UP and DOWN arrow keys to change the level number.
+Press the Save button to save the current level.
+Press the Load button to load a saved level.
+
+## Tile Types
+0: Empty
+1: Dirt Block
+2: Grass Block
+3: Football Enemy
+4: Horizontally Moving Platform
+5: Vertically Moving Platform
+6: Instagram Enemy
+7: Mobile Enemy
+8: Exit
+
