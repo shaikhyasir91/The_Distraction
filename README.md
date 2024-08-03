@@ -1,4 +1,3 @@
-```markdown
 # The Distraction Game
 
 The Distraction Game is a fun and interactive game where the player navigates through various obstacles and enemies. The goal is to avoid distractions and reach the end of the level. This project also includes a level editor to create and customize game levels.
@@ -8,8 +7,6 @@ The Distraction Game is a fun and interactive game where the player navigates th
 - [Installation](#installation)
 - [Usage](#usage)
 - [Level Editor](#level-editor)
-  - [Controls](#controls)
-  - [Tile Types](#tile-types)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
@@ -26,27 +23,19 @@ To run this game, you need to have Python and Pygame installed on your machine.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/TheDistractionGame.git
-    cd TheDistractionGame
+    git clone https://github.com/shaikhyasir91/The_DistractionGame.git
     ```
 
-2. Create and activate a virtual environment (optional but recommended):
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-
-3. Install the required dependencies:
+2. Install the required dependencies:
     ```bash
     pip install pygame
     ```
 
 ## Usage
 ### Running the Game
-To run the main game, execute the `main.py` script:
-```bash
-python main.py
-```
+To run the main game, execute the `The Distraction.py` script:
+python [The Distraction.py](https://github.com/shaikhyasir91/The_Distraction/blob/3e16fe827eca3420753aff7169860dc7420860ab/The%20Distraction.py)
+
 
 ### Using the Level Editor
 To create and edit game levels, execute the `level_editor.py` script:
@@ -85,9 +74,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-### Explanation
-
-- The nested links in the Table of Contents for "Controls" and "Tile Types" use double hyphens (`--`) when linking to subsections.
-- For example, to link to the "Controls" subsection, use `[Controls](#controls)` under the "Level Editor" section.
-- The links should be formatted with `#` followed by the section heading text, all in lowercase and with spaces replaced by hyphens.
