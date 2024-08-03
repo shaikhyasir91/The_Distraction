@@ -27,4 +27,4 @@ To run this game, you need to have Python and Pygame installed on your machine.
 ### Running the Game
 To run the main game, execute the `The Distraction.py` script:
 ```bash
-python The Distraction.py
+python [The Distraction.py]('https://github.com/shaikhyasir91/The_Distraction/blob/45725f19c512ac057767aa2267c9a18a3ea4d687/The%20Distraction.py')
