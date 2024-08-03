@@ -23,7 +23,7 @@ To run this game, you need to have Python and Pygame installed on your machine.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/shaikhyasir91/The_DistractionGame.git
+    git clone https://github.com/shaikhyasir91/The_Distraction.git
     ```
 
 2. Install the required dependencies:
@@ -33,15 +33,14 @@ To run this game, you need to have Python and Pygame installed on your machine.
 
 ## Usage
 ### Running the Game
-To run the main game, execute the `The Distraction.py` script:
-python [The Distraction.py](https://github.com/shaikhyasir91/The_Distraction/blob/3e16fe827eca3420753aff7169860dc7420860ab/The%20Distraction.py)
+To run the main game, execute the `The Distraction.py` 
+script: [The Distraction.py](https://github.com/shaikhyasir91/The_Distraction/blob/3e16fe827eca3420753aff7169860dc7420860ab/The%20Distraction.py)
 
 
 ### Using the Level Editor
 To create and edit game levels, execute the `level_editor.py` script:
-```bash
-python level_editor.py
-```
+script: [level_editor.py](https://github.com/shaikhyasir91/The_Distraction/blob/81b43d133b30d5f99af6e25e5fb7d670050485c1/level_editor.py)
+
 
 ## Level Editor
 The level editor allows you to create custom levels for the game. You can place different types of tiles and enemies on the grid and save/load your level designs.
