@@ -13,7 +13,9 @@ The Distraction Game is a fun and interactive game where the player navigates th
 To run this game, you need to have Python and Pygame installed on your machine.
 
 1. Clone the repository:
-    ```git clone https://github.com/shaikhyasir91/TheDistractionGame.git ```
+    ``` bash
+   git clone https://github.com/shaikhyasir91/TheDistractionGame.git
+    ```
 
 
 3. Install the required dependencies:
