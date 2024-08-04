@@ -9,7 +9,6 @@ The Distraction Game is a fun and interactive game where the player navigates th
 - [Level Editor](#level-editor)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Player character with basic movement and jumping mechanics.
